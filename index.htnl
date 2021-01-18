@@ -1,15 +1,39 @@
 <!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>Document</title>
-</head>
-<body>
-  <h1>Reonのホームページ</h1>
-  <h2>生年月日2001年5月14日</h2>
-  <h3>出身：埼玉県和光市</h3>
-  <a href="https://www.instagram.com/noji.reon">Instagram</a>
-</body>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>カメラ研究部</title>
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">気ままにカメラ</div>
+      <div class="header-list">
+        <ul>
+          <li>当サイトについて</li>
+          <li>カメラを学ぼう</li>
+          <li>お問い合わせ</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="top">
+        <h1>LEARN TO CAMERA.</h1>
+        <h1>LEARN TO BE CLEATIVE.</h1>
+        <P>気ままにカメラは誰でも簡単に理想の写真をお届けします。</P>
+        <P>初心者にも優しい解説となっているので一緒に学びましょう。</P>
+      </div>
+      <div class="btn-main">
+        <a href="#" class="btn signup">新規登録はこちら</a>
+        <p>or sign up with</p>
+        <a href="#" class="btn google">Googleで登録する</a>
+        <a href="#" class="btn twitter">Twitterで登録する</a>
+
+      </div>
+    </div>
+
+
+    
+  </body>
 </html>
